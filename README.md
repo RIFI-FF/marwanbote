@@ -10,9 +10,7 @@
 
 > [ 🔗 ] [atom.bio](https://www.atom.bio/theshadowbrokers-team)
 
-[![Click Aquí](https://img.shields.io/badge/Canal-MyMarwan-bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-
-[![Click Apuí](https://www.facebook.com/MarwanAwlad)]()
+[![Click Aquí](Menu2.jpg)]()
 
 <!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
