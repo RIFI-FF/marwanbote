@@ -49,7 +49,7 @@
 - Canal de WhatsApp: [clic aquí](https://cafirexos.com/whatsapp)
 - Comunidad: [clic aquí](https://cafirexos.com/comunidad)
 
-[![Click Aquí](https://img.shields.io/badge/Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50497150165)
+[![Click Aquí](Menu2.jpg)](https://wa.me/212699400714)
 
 ### `▢ ACTIVAR EN BOXMINEHOST`
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
